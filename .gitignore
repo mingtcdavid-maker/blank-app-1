@@ -1,5 +1,8 @@
 .streamlit/secrets.toml
 
+# usage-logger runtime data (logger_api.py)
+usage_data.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
